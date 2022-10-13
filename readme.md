@@ -1,5 +1,5 @@
 # OpenAstroGuider v3
-![OAGv3](https://i.imgur.com/gAHW5RW.jpeg)
+![OAGv3](https://i.imgur.com/jDOAayq.jpeg)
 
 ## Improvements over v2
 - Sturdier build
@@ -10,7 +10,7 @@
 - Strain relief for IMX USB cable
 - (optional) Build in dew heater powered directly from USB power
 
-![OAGv3 Cross Section](https://i.imgur.com/omMgW5U.jpeg)
+![OAGv3 Cross Section](https://i.imgur.com/mcG3R2p.jpeg)
 
 ## Required parts
 #### Screws & Nuts
